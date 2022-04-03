@@ -3,6 +3,8 @@
 
 Teste com GitHub
 
-## Descrição 
+## Lista de exercícios 
 
-Este projeto tem uma pasta chamada /src onde fica o código fonte
+- Exercício1
+- Exercício2
+- ......
